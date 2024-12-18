@@ -1,0 +1,16 @@
+.band img{
+    width: 33.3%;
+    height: 52px;
+
+}
+.band{
+    margin-top: 35px;
+}
+.lis{
+    display: flex;
+    text-decoration:none;
+    font-size: small;
+    justify-content:space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
